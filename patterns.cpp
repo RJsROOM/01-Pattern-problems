@@ -118,10 +118,6 @@ int main(){
   * * * * *
 
 
-
-
-*/
-
 void print(int n){
     for(int i=1; i<=n; i++){
         //space
@@ -145,3 +141,8 @@ int main(){
     cin>>n;
     print(n);
 }
+
+
+
+*/
+
